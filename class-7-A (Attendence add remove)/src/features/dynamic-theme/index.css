@@ -1,0 +1,43 @@
+.wrapper{
+	width:900px;
+	min-height:500px;
+	padding:30px;
+	margin:0 auto;
+	border: 1px solid; 
+	}
+
+
+.Dark{
+	background-color:#333333;
+	color:#f1f1f1;
+}
+.Light{
+	background-color:#f1f1f1;
+	color:#333333;
+}
+
+.btn {
+    background-color: #00e7ff;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: 1px solid#fff;
+}
+
+.ChildA{
+	width:200px;
+	min-height:100px;
+	background-color:#efefef;
+	color:#333333;
+	padding:20px;
+	margin:20px 0px;
+}
+
+.ChildB{
+	width:200px;
+	min-height:100px;
+	background-color:#333333;
+	color:#efefef;
+	padding:20px;
+	margin:20px 0px;
+} 

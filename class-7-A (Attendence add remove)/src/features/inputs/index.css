@@ -1,0 +1,26 @@
+.inputsDivarea{
+	width:900px;
+	min-height:500px;
+	padding:30px;
+	margin:0 auto;
+	border: 1px solid; 
+	text-align: center;
+	}
+.spanList {
+    background-color: #424049;
+    color: #ffffff;
+    padding: 3px 10px 5px 10px;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 100;
+    margin: 2px;
+}
+
+.spanListX{
+	color: red;
+	cursor: pointer;
+	padding: 3px;
+    margin: 3px;
+}
+

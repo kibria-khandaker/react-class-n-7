@@ -1,0 +1,57 @@
+.AttendanceDiv{
+	width:900px;
+	min-height:600px;
+	padding:20px;
+	margin:0 auto;
+	border: 1px solid; 
+}
+input.form-control {
+    width: 25%;
+    padding: 9px;
+    border: 1px solid #d2d2d2;
+    margin-bottom: 15px;
+}
+.attendanceList, .leavesList {
+    width: 25%;
+    display: inline-block;
+    background-color: #f1f1f1;
+    padding: 0px 10px;
+    margin-right: 5px;
+    vertical-align: top;
+}
+ul.ListGroup {
+    list-style: none;
+    padding: 0px;
+}
+ul.ListGroup li {
+    display: block;
+    border: 1px solid #d2d2d2;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+button.attendLiveBtn {
+    float: right;
+    background-color: #ff0561;
+    color: #ffffff;
+    border: 0px;
+    padding: 3px 10px;
+    border-radius: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

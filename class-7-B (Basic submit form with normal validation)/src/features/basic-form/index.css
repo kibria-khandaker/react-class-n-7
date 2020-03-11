@@ -1,0 +1,43 @@
+.BasicFormDiv{
+	width:75%;
+	min-height:600px;
+	padding:20px;
+	margin:0 auto;
+	border: 1px solid; 
+}
+label.form-labelText {
+    display: block;
+    margin:10px 5px 3px 0px;
+}
+
+input.form-inputBox {
+    width: 30%;
+    padding: 5px;
+    display: block;
+}
+
+button.form-submit {
+    padding: 5px 20px;
+    display: block;
+}
+
+.is-invalid{
+    border-color: #dc3545;
+    color: red;
+}
+
+.invalid-feedback {
+    font-size: 11px;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
